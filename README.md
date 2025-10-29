@@ -20,7 +20,7 @@ The dataset was sourced from the Nigeria Centre for Disease Control (NCDC) websi
 
 
 ## Preview
-![Dashboard Screenshot](https://github.com/FehintoluwaDawodu/NCDC_COVID-19-REPORT/blob/main/COVID-19_Report.png)
+![Dashboard Screenshot](https://github.com/FehintoluwaDawodu/NCDC_COVID-19-REPORT/blob/main/COVID-19_Report.png).
 
 > Click the image above to see a preview of the final dashboard.
 
